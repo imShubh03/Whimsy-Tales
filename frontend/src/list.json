@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Adventure",
+        "title": "An epic tale of exploration and discovery.",
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 15.99
+    },
+    {
+        "id": 2,
+        "name": "Mystery of the Haunted House",
+        "title": "A thrilling mystery set in a haunted mansion.",
+        "category": "Mystery",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 12.99
+    },
+    {
+        "id": 3,
+        "name": "Love in Paris",
+        "title": "A romantic story set in the heart of Paris.",
+        "category": "Romance",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 0.00
+    },
+    {
+        "id": 4,
+        "name": "The Space Odyssey",
+        "title": "An interstellar journey through the cosmos.",
+        "category": "Science Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 19.99
+    },
+    {
+        "id": 5,
+        "name": "Cooking with Joy",
+        "title": "Delicious recipes for everyday cooking.",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 0
+    },
+    {
+        "id": 6,
+        "name": "The Art of Meditation",
+        "title": "A guide to finding peace and tranquility.",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 0.00
+    },
+    {
+        "id": 7,
+        "name": "Historical Battles",
+        "title": "A detailed look at significant historical conflicts.",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 14.99
+    },
+    {
+        "id": 8,
+        "name": "Wildlife Wonders",
+        "title": "A journey into the wild to explore amazing animals.",
+        "category": "Nature",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 17.99
+    },
+    {
+        "id": 9,
+        "name": "Fantasy Realms",
+        "title": "Enter a world of magic and mythical creatures.",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 16.99
+    },
+    {
+        "id": 10,
+        "name": "Tech Innovations",
+        "title": "Exploring the latest advancements in technology.",
+        "category": "Technology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
+        "price": 18.99
+    }
+]
