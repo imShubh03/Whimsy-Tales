@@ -55,7 +55,8 @@ function Navbar() {
     )
     return (
         <>
-            <div className={` max-w-screen-xl container mx-auto md:px-16 px-4 fixed top-0 left-0 right-0 z-50 dark:bg-slate-800 dark:text-white ${sticky ? " sticky-navbar shadow-md bg-base-100 duration-300 transition-all ease-in-out dark:bg-slate-800 dark:text-white" : " "
+            <div className={` max-w-screen-xl container mx-auto md:px-16 px-4 fixed top-0 left-0 right-0 z-50 dark:bg-slate-800 dark:text-white 
+            ${sticky ? " sticky-navbar shadow-md bg-base-100 duration-300 transition-all ease-in-out dark:bg-slate-800 dark:text-white" : " "
                 }`}>
                 <div className="navbar">
                     <div className="navbar-start">
@@ -76,11 +77,11 @@ function Navbar() {
                             </div>
                             <ul
                                 tabIndex={0}
-                                className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+                                className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow dark:bg-slate-800 dark:text-white ">
                                 {navItems}
                             </ul>
                         </div>
-                        <a className=" text-2xl font-bold cursor-pointer">BookGlore</a>
+                        <a className=" text-2xl font-bold cursor-pointer">Whimsy Tales</a>
                     </div>
 
                     <div className=' navbar-end space-x-4'>

@@ -1,82 +1,92 @@
 [
     {
         "id": 1,
-        "name": "The Great Adventure",
-        "title": "An epic tale of exploration and discovery.",
+        "name": "Goodnight Moon",
+        "title": "A classic bedtime story for young children.",
         "category": "Adventure",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 15.99
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Goodnightmoon.jpg",
+        "price": 15.99,
+        "url": "https://www.amazon.com/dp/B000I16XKQ"
     },
     {
         "id": 2,
-        "name": "Mystery of the Haunted House",
-        "title": "A thrilling mystery set in a haunted mansion.",
+        "name": "The Very Hungry Caterpillar",
+        "title": "A caterpillar eats his way through the week.",
         "category": "Mystery",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 12.99
+        "image": "https://m.media-amazon.com/images/I/410H93ATAGL._AC_UF1000,1000_QL80_.jpg",
+        "price": 12.99,
+        "url": "https://www.amazon.com/dp/0399226907"
     },
     {
         "id": 3,
-        "name": "Love in Paris",
-        "title": "A romantic story set in the heart of Paris.",
+        "name": "The Tale of Peter Rabbit",
+        "title": "A mischievous rabbit's adventure in Mr. McGregor's garden.",
         "category": "Romance",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 0.00
+        "image": "https://cdn.kobo.com/book-images/2fe4aaed-74eb-4ed6-8730-87cd168ed21b/1200/1200/False/the-tale-of-peter-rabbit-noslen-classics-1.jpg",
+        "price": 0.00,
+        "url": "https://www.amazon.com/dp/0723247706"
     },
     {
         "id": 4,
-        "name": "The Space Odyssey",
-        "title": "An interstellar journey through the cosmos.",
+        "name": "Where the Wild Things Are",
+        "title": "A boy named Max journeys to an island of monsters.",
         "category": "Science Fiction",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 19.99
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRfD7AqLs1gUPLusqUVqT9H5m3NTJ1r9oamg&s",
+        "price": 19.99,
+        "url": "https://www.amazon.com/dp/0064431789"
     },
     {
         "id": 5,
-        "name": "Cooking with Joy",
-        "title": "Delicious recipes for everyday cooking.",
+        "name": "Brown Bear, Brown Bear, What Do You See?",
+        "title": "An engaging, rhythmic story with colorful animals.",
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 0
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwr2bHVrKVRrfmNZbsUdd2YIvyrSKwSJb5A&s",
+        "price": 0,
+        "url": "https://www.amazon.com/dp/0805047905"
     },
     {
         "id": 6,
-        "name": "The Art of Meditation",
-        "title": "A guide to finding peace and tranquility.",
+        "name": "The Cat in the Hat",
+        "title": "A playful and mischievous cat creates chaos.",
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 0.00
+        "image": "https://m.media-amazon.com/images/I/81FirD71kbL._AC_UF1000,1000_QL80_.jpg",
+        "price": 0.00,
+        "url": "https://www.amazon.com/dp/039480001X"
     },
     {
         "id": 7,
-        "name": "Historical Battles",
-        "title": "A detailed look at significant historical conflicts.",
+        "name": "Green Eggs and Ham",
+        "title": "A fun story about trying new things.",
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 14.99
+        "image": "https://m.media-amazon.com/images/I/41JtNdZpKjL._SY445_SX342_.jpg",
+        "price": 14.99,
+        "url": "https://www.amazon.com/dp/0394800168"
     },
     {
         "id": 8,
-        "name": "Wildlife Wonders",
-        "title": "A journey into the wild to explore amazing animals.",
+        "name": "The Gruffalo",
+        "title": "A mouse tells a story to scare off predators.",
         "category": "Nature",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 17.99
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzwoMsaPIvCYZB5SBf-GVb0zZ0dw761l-kw&s",
+        "price": 17.99,
+        "url": "https://www.amazon.com/dp/0333710932"
     },
     {
         "id": 9,
-        "name": "Fantasy Realms",
-        "title": "Enter a world of magic and mythical creatures.",
+        "name": "Room on the Broom",
+        "title": "A witch and her cat fly through the sky, picking up friends.",
         "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 16.99
+        "image": "https://m.media-amazon.com/images/M/MV5BNDg3Njg4ODEyMl5BMl5BanBnXkFtZTgwMTM3MzcxMTE@._V1_.jpg",
+        "price": 16.99,
+        "url": "https://www.amazon.com/dp/0142501123"
     },
     {
         "id": 10,
-        "name": "Tech Innovations",
-        "title": "Exploring the latest advancements in technology.",
-        "category": "Technology",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334862.jpg?t=st=1720968108~exp=1720971708~hmac=dc0fab0c9d587e1e405a8e71bef7bd1e7eb0b00e462fcc8001eb2c638433b02f&w=740",
-        "price": 18.99
+        "name": "Harry Potter and the Philosopher's Stone",
+        "title": "A young boy discovers he is a wizard on his 11th birthday.",
+        "category": "Fantasy",
+        "image": "https://m.media-amazon.com/images/I/81aCMT1zKtL._AC_UF1000,1000_QL80_.jpg",
+        "price": 24.99,
+        "url": "https://www.amazon.com/dp/059035342X"
     }
 ]

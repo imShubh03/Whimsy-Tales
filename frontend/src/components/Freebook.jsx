@@ -1,16 +1,16 @@
-import React from 'react'
-import List from "../../src/list.json"
+import React from 'react';
+import List from "../../src/list.json";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import Card from './Card';
 
-
-
 function Freebook() {
-    const freeData = List.filter((data) => data.category === "Free")
+    // Filter books with category 'Free'
+    const freeData = List.filter((data) => data.category === "Free");
 
-    var settings = {
+    // Slider settings
+    const settings = {
         dots: true,
         infinite: false,
         speed: 500,
@@ -47,14 +47,14 @@ function Freebook() {
 
     return (
         <>
-            <div className=' max-w-screen-xl container mx-auto md:px-16 px-4'>
+            <div className='max-w-screen-xl container mx-auto md:px-16 px-4'>
                 <div>
-                    <h1 className=' font-semibold text-lg'>Lorem ipsum dolor sit amet.</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat alias aliquam ex asperiores, explicabo facere nemo iste esse ipsum saepe!</p>
+                    <h1 className='font-semibold text-lg'>Explore Our Free Children's Books</h1>
+                    <p>Discover a selection of engaging and interactive books available at no cost. Perfect for young readers to explore new adventures and learning experiences!</p>
                 </div>
 
-                {/* slider */}
-                <div className=' slider-container' >
+                {/* Slider */}
+                <div className='slider-container'>
                     <Slider {...settings}>
                         {
                             freeData.map((item) => (
@@ -65,7 +65,7 @@ function Freebook() {
                 </div>
             </div>
         </>
-    )
+    );
 }
 
-export default Freebook
+export default Freebook;
