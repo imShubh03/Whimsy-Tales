@@ -1,8 +1,11 @@
 import React, { useEffect, useState } from 'react'
 import Login from './Login';
+import Logout from './Logout';
+import { useAuth } from '../context/AuthProvider';
 
 function Navbar() {
 
+    const [authUser, setAuthUser] = useAuth();
     const [sticky, setSticky] = useState(false);
     const [theme, setTheme] = useState(localStorage.getItem("theme") ? localStorage.getItem("theme") : "light")
     // targeting root element
@@ -135,14 +138,20 @@ function Navbar() {
                                 </svg>
                             </label>
                         </div>
-                        <div className="">
-                            <a className=" bg-purple-800 text-white px-3 py-3 rounded-md cursor-pointer"
-                                onClick={() => document.getElementById("my_modal_3").showModal()}
-                            >
-                                Login
-                            </a>
-                            <Login />
-                        </div>
+
+                        {
+                            authUser ? (<Logout /> ): (
+                                <div className="">
+                                    <a className=" bg-purple-800 text-white px-3 py-3 rounded-md cursor-pointer hover:bg-purple-600"
+                                        onClick={() => document.getElementById("my_modal_3").showModal()}
+                                    >
+                                        Login
+                                    </a>
+                                    <Login />
+                                </div>
+                            )
+                        }
+
                     </div>
                 </div>
             </div>

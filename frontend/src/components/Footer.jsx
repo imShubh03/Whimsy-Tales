@@ -6,9 +6,8 @@ function Footer() {
             <div className='mt-5'>
                 <footer className="footer footer-center border text-base-content rounded p-10 dark:bg-slate-800 dark:text-white dark:border-none">
                     <nav className="grid grid-flow-col gap-4">
-                        <a href="/about" className="link link-hover" aria-label="About Us">About Us</a>
+                        <a href="/" className="link link-hover" aria-label="About Us">About Us</a>
                         <a href="/contacts" className="link link-hover" aria-label="Contact">Contact</a>
-                        <a href="/jobs" className="link link-hover" aria-label="Jobs">Jobs</a>
                     </nav>
                     <nav>
                         <div className="grid grid-flow-col gap-4">
@@ -48,7 +47,7 @@ function Footer() {
                         </div>
                     </nav>
                     <aside>
-                        <p>Copyright © {new Date().getFullYear()} - All rights reserved by ACME Industries Ltd</p>
+                        <p>Copyright © {new Date().getFullYear()} - All rights reserved by WhimsyTales Ltd.</p>
                     </aside>
                 </footer>
             </div>
